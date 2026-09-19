@@ -54,7 +54,7 @@ its own Java, so you do **not** need to separately install a JDK.
 ## 3. Get a GitHub account
 
 1. Create an account at <https://github.com/> if you don't have one already.
-2. Ask [mentor/lead] to add you as a collaborator on the onboarding repo (if it's
+2. Ask your team lead or Noah to add you as a collaborator on the onboarding repo (if it's
    private), or skip this if it's public.
 
 ---
@@ -244,7 +244,7 @@ you're comfortable with the basics above.
 
 **Team convention:** don't commit straight to `master`/`main`. Create a branch for
 your change and open a pull request instead — a mentor or lead will review it before
-it merges. Ask [mentor/lead] to show you this the first time.
+it merges. Ask the lead programmer to show you this the first time.
 
 ---
 
@@ -273,5 +273,5 @@ is a good free option:
 
 ## Questions?
 
-Ask [mentor/lead/Discord channel] — everyone on this team started exactly where
+Ask in the programming channel of the robotics Discord — everyone on this team started exactly where
 you are now.
